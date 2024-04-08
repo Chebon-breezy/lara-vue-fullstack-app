@@ -1,0 +1,1 @@
+The tuorial to build APIs and Single Page Applications with Laravel 11, Vue 3, and Inertia Js
